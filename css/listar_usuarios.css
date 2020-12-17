@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-image: url('fondo3.png');
+}
+.tabla{
+    padding: 50px;
+    max-width: 500px;
+}
