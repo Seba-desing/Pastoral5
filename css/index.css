@@ -22,7 +22,7 @@
 	background-color: white;
 	float: left;
 	margin-left: 350px;
-	margin-top: 60px;
+	margin-top: 44px;
 	
 	box-shadow: inset 3px 0px 20px -7px black;
 }
@@ -42,7 +42,7 @@
 	background-color: white;
 	float: left;
 	margin-left: 100px;
-	margin-top: 60px;
+	margin-top: 44px;
 
 	box-shadow: inset 3px 0px 20px -7px black;
 }
@@ -169,7 +169,7 @@ button:hover
             width: 100%;
             text-align: center;
             padding-top:20px ;
-            margin-top: 73px;
+            margin-top: 57px;
             opacity: 80%;
 			color: #0e0d0d;
 			float: left;
